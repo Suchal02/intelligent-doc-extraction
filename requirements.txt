@@ -1,0 +1,14 @@
+python-dotenv
+streamlit
+transformers
+datasets
+pdfplumber
+python-docx
+Pillow
+pytesseract
+opencv-python
+torch
+camelot-py[cv]
+layoutparser
+pytesseract
+opencv-python
